@@ -1,9 +1,6 @@
 # StableDiffusionMnist
 Stable Diffusion Model training from scratch using MNIST dataset on Google Colaboratory
 
-![3](https://github.com/SajeelKA/StableDiffusionMnist/blob/main/images/result3.png)
-![5](https://github.com/SajeelKA/StableDiffusionMnist/blob/main/images/result5.png)
-
 # Setup Instructions
 This project is designed to work on Google Colaboratory, so there are references in the code to "mount" to the Google Drive folders to access the required files and folders. 
 
@@ -45,3 +42,6 @@ The inference can be run by running the cells in the "inference.ipynb" notebook.
   
   "--conditionalScale", required = False, type=float, default = 5.0 (higher scale should mean output samples are closer to input, while lower scale gives more flexibility/originality to the output image)
 
+# Sample Results
+![3](https://github.com/SajeelKA/StableDiffusionMnist/blob/main/images/result3.png)
+![5](https://github.com/SajeelKA/StableDiffusionMnist/blob/main/images/result5.png)
