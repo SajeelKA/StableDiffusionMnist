@@ -1,6 +1,9 @@
 # StableDiffusionMnist
 Stable Diffusion Model training from scratch using MNIST dataset on Google Colaboratory
 
+![3](https://github.com/SajeelKA/StableDiffusionMnist/blob/main/images/result3.png)
+![5](https://github.com/SajeelKA/StableDiffusionMnist/blob/main/images/result5.png)
+
 # Setup Instructions
 This project is designed to work on Google Colaboratory, so there are references in the code to "mount" to the Google Drive folders to access the required files and folders. 
 
